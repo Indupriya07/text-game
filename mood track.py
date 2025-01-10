@@ -9,7 +9,7 @@ def mood_tracker():
 
     moods = { # Changed Dict to moods as it was used in the code
         "happy": ["happy", "joyful", "excited", "delighted", "content","best"],
-        "sad": ["sad", "unhappy", "depressed", "down", "gloomy","worst"],
+        "sad": ["sad", "unhappy", "depressed", "down", "gloomy","worst","disappointed],
         "angry": ["angry", "mad", "frustrated", "furious","pissed off"],
         "neutral": ["neutral", "okay", "fine", "alright", "indifferent" ,"bored"],
         "overwhelmed":["overload","overburden"], # added empty list to fix syntax error
